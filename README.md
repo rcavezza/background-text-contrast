@@ -1,3 +1,13 @@
+# Background Color Contrast V1
+
+Initial version of project that helps you find text color for your website vs background color. 
+
+V1 expectations are to enter a hex code, and we tell you which text color is better on that background, black (#000000) or white (#ffffff).
+
+The project originally created by using `create-react-app`. Rest of the README is the default `create-react-app` README since it's useful.
+
+## Create-React-App Default README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
